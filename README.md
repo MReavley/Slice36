@@ -15,7 +15,11 @@
 
 ## Things to note if you want to build one:
 
--You can find the schematic, layout and gerbers in the repo, as well as a dxf file for the plate. I am currently working on a case for this and will add the stls and solidworks files once they are ready.  
+-IMPORTANT: The xiao on the right half (master) is to be soldered with the LED/chip facing up, and the left half (slave) upside down, so that the pinout still matches the flipped PCB.  
+
+-You can find the schematic, layout and gerbers in the repo, as well as a dxf file for the plate. I am currently working on a case for this and will add the stls and solidworks files once they are ready. 
+
+-I use 8mm rubber feet that are 1.5mm tall which are just about tall enough, but I think taller rubber feet would be better.
 
 -TRRS jacks for the split are connected to the I2C pins on the Xiao board. Since KMK uses UART for split communications, I used PIO on the RP2040 to change those pins to UART, but I don't know what your options are on the SAMD21 version if you wish to use UART on those.  
 
