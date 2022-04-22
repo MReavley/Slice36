@@ -6,10 +6,10 @@
 
 ## Features
 
--MX Spacing
--Reversible PCB, designed around 0805 smd components to be hand-solderable or assembled by JLCPCB.
--Built around the Seeeduino Xiao RP2040(hooray USB-C), using KMK.
--Laser cut aluminium plate, secured by the soldered in switches for clean look without fasteners 
+-MX Spacing \n
+-Reversible PCB, designed around 0805 smd components to be hand-solderable or assembled by JLCPCB. \n
+-Built around the Seeeduino Xiao RP2040(hooray USB-C), using KMK. \n
+-Laser cut aluminium plate, secured by the soldered in switches for clean look without fasteners \n
 
 ![Picture of the Slice36 and PCB](https://github.com/MReavley/Slice36/blob/main/Slice36%20Pictures/IMG_1029.JPG)
 
