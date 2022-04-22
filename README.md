@@ -1,10 +1,10 @@
-#Slice36 Minimalist Split Keyboard
+# Slice36 Minimalist Split Keyboard
 
 ![Picture of the Slice36](https://github.com/MReavley/Slice36/blob/main/Slice36%20Pictures/IMG_1024.JPG)
 
 36 key ergo split keyboard, designed around the Seeeduino Xiao platform. Inspired by the Corne, Ferris, Ben Vallack's videos and countless hours of perusing reddit and kbd.news, but ultimately this has been done up from scratch largely as an exercise for myself. The layout was generated through experimentation with scale drawings on my ipad, although emphasis has been placed on aesthetics and compactness. 
 
-##Features
+## Features
 
 -MX Spacing
 -Reversible PCB, designed around 0805 smd components to be hand-solderable or assembled by JLCPCB.
@@ -13,7 +13,7 @@
 
 ![Picture of the Slice36 and PCB](https://github.com/MReavley/Slice36/blob/main/Slice36%20Pictures/IMG_1029.JPG)
 
-##Things to note if you want to build one:
+## Things to note if you want to build one:
 
 -You can find the schematic, layout and gerbers in the repo, as well as a dxf file for the plate. I am currently working on a case for this and will add the stls and solidworks files once they are ready.
 
