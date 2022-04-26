@@ -7,7 +7,7 @@
 ## Features
 
 -MX Spacing  
--Reversible PCB, designed around 0805 smd components to be hand-solderable or assembled by JLCPCB.  
+-Reversible PCB, designed around 0805 smd components to be hand-solderable or using an assembly service.  
 -Built around the Seeeduino Xiao RP2040(hooray USB-C), using KMK.  
 -Laser cut aluminium plate, secured by the soldered in switches for clean look without fasteners  
 
