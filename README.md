@@ -21,7 +21,7 @@
 -(additional footprints R4-R7 for I2C communication for splits, may not be required)  
 -Cherry MX style switches x36  
 -Plate x2   
-
+-TRRS cable  
 
 ## Things to note if you want to build one:
 
