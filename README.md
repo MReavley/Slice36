@@ -14,13 +14,13 @@
 ![Picture of the Slice36 and PCB](https://github.com/MReavley/Slice36/blob/main/Slice36%20Pictures/IMG_1029.JPG)
 
 ## BOM
--Seeeduino Xiao RP2040 x2
--1N4148WS Diodes (SOD-323) x36
--PJ320D TRRS jacks x2
--0805 10k resistors x6 
--(additional footprints R4-R7 for I2C communication for splits, may not be required)
--Cherry MX style switches x36
--Plate x2 
+-Seeeduino Xiao RP2040 x2  
+-1N4148WS Diodes (SOD-323) x36  
+-PJ320D TRRS jacks x2  
+-0805 10k resistors x6   
+-(additional footprints R4-R7 for I2C communication for splits, may not be required)  
+-Cherry MX style switches x36  
+-Plate x2   
 
 
 ## Things to note if you want to build one:
