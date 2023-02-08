@@ -48,7 +48,13 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [
         "hole_near_hole|20930000|138400000|4932da73-8e11-4be1-b6f5-2434c9afee68|5d37ba84-031c-4abd-a8ee-60ee93f4687e",
         "hole_near_hole|27930000|138400000|8b2a66ed-df3c-411f-86d8-7a7ae4ae6e78|0aa11311-6db6-4e57-91b7-a74fc5f2a240",
@@ -102,7 +108,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.19999999999999998,
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -117,8 +123,15 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -338,7 +351,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Otter's Paw V2.kicad_pro",
+    "filename": "Slice36.kicad_pro",
     "version": 1
   },
   "net_settings": {
